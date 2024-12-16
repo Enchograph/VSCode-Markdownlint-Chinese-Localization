@@ -92,29 +92,72 @@ The extention is based on the [markdownlint](https://github.com/DavidAnson/vscod
 * **[MD034](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md034.md)** *no-bare-urls* - Bare URL used
 *
 * **[MD035](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md035.md)** *hr-style* - Horizontal rule style
-* **[MD035](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md035.md)** *hr-style* - Horizontal rule style
+* **[MD035](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md035.md)** *分割线样式* - 分割线应使用相同的样式
 *
 * **[MD036](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md036.md)** *no-emphasis-as-heading* - Emphasis used instead of a heading
+* **[MD036](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md036.md)** *不应使用加粗取代标题* - 对一整行使用了加粗，以此取代了标题
+  
 * **[MD037](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md037.md)** *no-space-in-emphasis* - Spaces inside emphasis markers
+* **[MD037](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md037.md)** *强调符应紧贴文字* - 强调符与文字间存在空格
+*
 * **[MD038](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md038.md)** *no-space-in-code* - Spaces inside code span elements
+* **[MD038](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md038.md)** *代码块内的空格* - 代码块内存在不合适的空格
+*
 * **[MD039](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md039.md)** *no-space-in-links* - Spaces inside link text
+* **[MD039](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md039.md)** *链接中不应有空格* - 中括号应紧贴超链接文本
+*
 * **[MD040](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md040.md)** *fenced-code-language* - Fenced code blocks should have a language specified
+* **[MD040](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md040.md)** *指定代码块语言* - 代码块应标识一种语言
+*
 * **[MD041](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md041.md)** *first-line-heading/first-line-h1* - First line in file should be a top level heading
+* **[MD041](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md041.md)** *首行标题原则* - 文档的第一行应为顶级标题
+*
 * **[MD042](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md042.md)** *no-empty-links* - No empty links
+* **[MD042](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md042.md)** *不应有空链接* - 存在空链接
+*
 * **[MD043](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md043.md)** *required-headings* - Required heading structure
+* **[MD043](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md043.md)** *强制标题结构* - 与强制标题结构不符
+*
 * **[MD044](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md044.md)** *proper-names* - Proper names should have the correct capitalization
+* **[MD044](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md044.md)** *专有名称大小写* - 专有名称大小写应采用正确的大小写
+*
 * **[MD045](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md045.md)** *no-alt-text* - Images should have alternate text (alt text)
+* **[MD045](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md045.md)** *图片替代文本缺失* - 图片缺少替代文本
+*
 * **[MD046](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md046.md)** *code-block-style* - Code block style
+* **[MD046](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md046.md)** *代码块样式* - 代码块样式
+*
 * **[MD047](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md047.md)** *single-trailing-newline* - Files should end with a single newline character
+* **[MD047](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md047.md)** *文档末尾空行原则* - 文档应以空行结尾
+*
 * **[MD048](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md048.md)** *code-fence-style* - Code fence style
+* **[MD048](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md048.md)** *代码围栏样式* - 代码围栏样式
+*
 * **[MD049](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md049.md)** *emphasis-style* - Emphasis style should be consistent
+* **[MD049](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md049.md)** *emphasis-style* - Emphasis style should be consistent
+*
 * **[MD050](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md050.md)** *strong-style* - Strong style should be consistent
+* **[MD050](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md050.md)** *strong-style* - Strong style should be consistent
+*
 * **[MD051](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md051.md)** *link-fragments* - Link fragments should be valid
+* **[MD051](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md051.md)** *link-fragments* - Link fragments should be valid
+*
 * **[MD052](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md052.md)** *reference-links-images* - Reference links and images should use a label that is defined
+* **[MD052](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md052.md)** *reference-links-images* - Reference links and images should use a label that is defined
+
 * **[MD053](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md053.md)** *link-image-reference-definitions* - Link and image reference definitions should be needed
+* **[MD053](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md053.md)** *link-image-reference-definitions* - Link and image reference definitions should be needed
+*
 * **[MD054](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md054.md)** *link-image-style* - Link and image style
+* **[MD054](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md054.md)** *link-image-style* - Link and image style
+*
 * **[MD055](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md055.md)** *table-pipe-style* - Table pipe style
+* **[MD055](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md055.md)** *table-pipe-style* - Table pipe style
+*
 * **[MD056](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md056.md)** *table-column-count* - Table column count
+* **[MD056](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md056.md)** *table-column-count* - Table column count
+*
+* **[MD058](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md058.md)** *blanks-around-tables* - Tables should be surrounded by blank lines
 * **[MD058](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md058.md)** *blanks-around-tables* - Tables should be surrounded by blank lines
 
 See [markdownlint's Rules.md file](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/Rules.md) for more details.
