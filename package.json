@@ -1,7 +1,7 @@
 {
     "name": "vscode-markdownlint-chinese-localization",
     "displayName": "markdownlint-Chinese-Localization",
-    "description": "基于 markdonlint 的 Markdown 语法检查与纠错插件",
+    "description": "markdonlint 汉化版 —— Markdown 语法检查与纠错插件",
     "icon": "images/markdownlint-128.png",
     "version": "0.0.1",
     "author": "陈广隰(https://github.com/Enchograph)",

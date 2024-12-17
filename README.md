@@ -134,31 +134,32 @@ The extention is based on the [markdownlint](https://github.com/DavidAnson/vscod
 * **[MD048](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md048.md)** *代码围栏样式* - 代码围栏样式
 *
 * **[MD049](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md049.md)** *emphasis-style* - Emphasis style should be consistent
-* **[MD049](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md049.md)** *emphasis-style* - Emphasis style should be consistent
+* **[MD049](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md049.md)** *斜体样式* - 全文斜体样式应一致
 *
 * **[MD050](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md050.md)** *strong-style* - Strong style should be consistent
-* **[MD050](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md050.md)** *strong-style* - Strong style should be consistent
+* **[MD050](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md050.md)** *粗体样式* - 全文粗体样式应一致
 *
 * **[MD051](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md051.md)** *link-fragments* - Link fragments should be valid
-* **[MD051](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md051.md)** *link-fragments* - Link fragments should be valid
+* **[MD051](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md051.md)** *文内链接* - 与文章内部某处连接的链接应是合法的
 *
 * **[MD052](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md052.md)** *reference-links-images* - Reference links and images should use a label that is defined
-* **[MD052](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md052.md)** *reference-links-images* - Reference links and images should use a label that is defined
+* **[MD052](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md052.md)** *链接与图片的引用* - 链接和图片应该使用标签进行引用，而非写出完整路径
 
 * **[MD053](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md053.md)** *link-image-reference-definitions* - Link and image reference definitions should be needed
-* **[MD053](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md053.md)** *link-image-reference-definitions* - Link and image reference definitions should be needed
+* **[MD053](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md053.md)** *存在多余的标签* - 不应存在多余的标签
 *
 * **[MD054](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md054.md)** *link-image-style* - Link and image style
-* **[MD054](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md054.md)** *link-image-style* - Link and image style
+* **[MD054](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md054.md)** *链接与图片样式* - 链接与图片样式
 *
 * **[MD055](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md055.md)** *table-pipe-style* - Table pipe style
-* **[MD055](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md055.md)** *table-pipe-style* - Table pipe style
+* **[MD055](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md055.md)** *表格分隔符样式* - 表格分隔符样式
 *
 * **[MD056](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md056.md)** *table-column-count* - Table column count
-* **[MD056](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md056.md)** *table-column-count* - Table column count
+* **[MD056](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md056.md)** *表格列数一致* - 表格列数应一致
 *
 * **[MD058](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md058.md)** *blanks-around-tables* - Tables should be surrounded by blank lines
-* **[MD058](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md058.md)** *blanks-around-tables* - Tables should be surrounded by blank lines
+* **[MD058](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/md058.md)** *表应该被空行包围* - 表应该被空行包围
+*
 
 See [markdownlint's Rules.md file](https://github.com/DavidAnson/markdownlint/blob/v0.36.1/doc/Rules.md) for more details.
 
